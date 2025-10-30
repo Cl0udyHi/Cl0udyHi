@@ -5,6 +5,7 @@ I'm a junior Frontend Web Developer, I build good looking responsive websites wi
 
 🎨 Check out my work on my [**Portfolio**](https://portfolio-gwxe.vercel.app/)
 
+<!--
 ---
 
 ## 🧠 Languages, Frameworks and Tools
@@ -25,4 +26,4 @@ I'm a junior Frontend Web Developer, I build good looking responsive websites wi
 
 ---
 
-📫 Get in Touch: [**portfolio-gwxe.vercel.app/contact**](https://portfolio-gwxe.vercel.app/contact)
+📫 Get in Touch: [**portfolio-gwxe.vercel.app/contact**](https://portfolio-gwxe.vercel.app/contact) -->

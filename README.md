@@ -1,7 +1,7 @@
 # 💻 Front-End Web Developer  
 
-Hey there! I'm **Nadir** — aka **CloudyHi** ☁️  
-I'm a junior Frontend Web Developer, I build good looking responsive websites with good design in mind.  
+Hello! I'm **Nadir** aka **CloudyHi** ☁️  
+I'm a junior Frontend Web Developer, I build responsive good looking websites with good design in mind.  
 
 🎨 Check out my work on my [**Portfolio**](https://portfolio-gwxe.vercel.app/)
 

@@ -1,14 +1,10 @@
-# 💻 Front-End Web Developer  
+# 👨‍💻 Front-End Web Developer
+Hi! I'm Nadir (aka CloudyHi).  
+I'm a junior front-end web developer who began this journey in 2025.
 
-Hello! I'm **Nadir** aka **CloudyHi** ☁️  
-I'm a junior Frontend Web Developer, I build responsive good looking websites with good design in mind.  
+📂 **Portfolio**: https://portfolio-gwxe.vercel.app
 
-🎨 Check out my work on my [**Portfolio**](https://portfolio-gwxe.vercel.app/)
-
-<!--
----
-
-## 🧠 Languages, Frameworks and Tools
+# 📚 What I Learned So Far
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +20,6 @@ I'm a junior Frontend Web Developer, I build responsive good looking websites wi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
----
-
-📫 Get in Touch: [**portfolio-gwxe.vercel.app/contact**](https://portfolio-gwxe.vercel.app/contact) -->
+# ⚽ Where I'm Going
+My goal is to build a career in this industry.  
+I’m planning to become a full-stack web developer next year after mastering front-end development, and I also intend to learn React Native at some point.

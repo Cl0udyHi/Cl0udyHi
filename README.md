@@ -2,7 +2,7 @@
 Hi! I'm Nadir (aka CloudyHi).  
 I'm a junior front-end web developer who began this journey in 2025.
 
-📂 **Portfolio**: https://portfolio-gwxe.vercel.app
+📂 **Portfolio**: https://cloudyhi.dev
 
 # 📚 What I Learned So Far
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

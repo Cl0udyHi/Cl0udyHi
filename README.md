@@ -1,8 +1,6 @@
 # 👨‍💻 Front-End Web Developer
-```
 Hi! I'm Nadir (aka CloudyHi).  
 I'm a junior front-end web developer who began this journey in 2025.
-```
 
 📂 **Portfolio**: https://cloudyhi.dev
 
